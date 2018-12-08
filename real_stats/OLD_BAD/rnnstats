@@ -1,0 +1,3 @@
+final train acc: 1.0final train loss: 0.0
+final val acc: 0.915625final val loss: 0.007290479727089405
+final test acc: 0.9065final test loss: 0.008083290420472622
